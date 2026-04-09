@@ -2,7 +2,7 @@
 
 # Kshitij Jha
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white)](https://github.com/kshitij406)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white)]((https://kshitij-portfolio-site.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitij-jha2006)
 [![Letterboxd](https://img.shields.io/badge/LETTERBOXD-00C030?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/Kxitiz_)
 [![X](https://img.shields.io/badge/@kxitiz__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kxitiz_)
