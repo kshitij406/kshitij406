@@ -2,13 +2,12 @@
 
 # Kshitij Jha
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white)]((https://kshitij-portfolio-site.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white)](https://kshitij-portfolio-site.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitij-jha2006)
 [![Letterboxd](https://img.shields.io/badge/LETTERBOXD-00C030?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/Kxitiz_)
 [![X](https://img.shields.io/badge/@kxitiz__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kxitiz_)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitij.j615@gmail.com)
 
-<!-- Replace the URL below with a hosted photo of your own (imgur, GitHub assets, etc.) -->
 <!-- <img src="YOUR_PHOTO_URL_HERE" width="600" alt="Kshitij Jha" /> -->
 
 </div>
@@ -43,14 +42,13 @@
 
 ## Experience
 
-**SAP Intern — CubeStone Consulting, Dar es Salaam** *(2024)*
+**SAP Intern at CubeStone Consulting, Dar es Salaam** *(Jan 2026 to Mar 2026)*
 Built a Fleet Management API end-to-end: C# backend with SAP HANA, React Native frontend, authentication and permissions system, and seed data generation.
 
 ---
 
 ## Currently
 
-- Mauritius → UK (2027)
 - BSc Computer Science (Systems Engineering), Middlesex University Mauritius
 - Building PipeVision: parallel image filter pipeline in C using anonymous pipes and forked processes
 - Exploring local LLM tooling with Ollama, Qwen3, and agentic scaffolds
