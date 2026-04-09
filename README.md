@@ -43,11 +43,8 @@
 
 ## Experience
 
-**Data Contractor — Mercor** *(2025 – present)*
-Creating prompts and sourcing UI screenshots from complex interfaces (GitHub, Figma, Notion, AWS Console) for screen and UI understanding datasets.
-
 **SAP Intern — CubeStone Consulting, Dar es Salaam** *(2024)*
-Built a Fleet Management API end to end: C# backend with SAP HANA, React Native frontend, authentication and permissions system, and seed data generation.
+Built a Fleet Management API end-to-end: C# backend with SAP HANA, React Native frontend, authentication and permissions system, and seed data generation.
 
 ---
 
