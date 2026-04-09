@@ -8,7 +8,7 @@
 [![X](https://img.shields.io/badge/@kxitiz__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kxitiz_)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitij.j615@gmail.com)
 
-<!-- <img src="YOUR_PHOTO_URL_HERE" width="600" alt="Kshitij Jha" /> -->
+<!-- <img src="PHOTO_URL_HERE" width="600" alt="Kshitij Jha" /> -->
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## About Me
 
-- CS student in Mauritius, moving to the UK in 2027
+- CS student in Mauritius studying at Middlesex University
 - I am lazy, so I build things that do the work for me
 - Genuinely interested in most areas of tech, no fixed lane yet
 - I have a diving license, which has nothing to do with software but feels worth mentioning
@@ -57,9 +57,9 @@ Built a Fleet Management API end-to-end: C# backend with SAP HANA, React Native 
 ---
 
 <div align="center">
-
-![Kshitij's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshitij406&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff)
+ 
+![Kshitij's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kshitij406&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij406&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff)
-
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kshitij406&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff)
+ 
 </div>
