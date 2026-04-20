@@ -60,9 +60,9 @@ Built a Fleet Management system end-to-end: C# backend with SAP HANA, React Nati
 
 <div align="center">
 
-![Kshitij's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kshitij406&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff)
+<!-- ![Kshitij's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kshitij406&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kshitij406&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kshitij406&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff) -->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kshitij406&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff)
 
