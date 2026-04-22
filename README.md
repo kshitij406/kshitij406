@@ -50,7 +50,6 @@ Built a Fleet Management system end-to-end: C# backend with SAP HANA, React Nati
 
 ## Currently
 
-- Building **PipeVision** — a parallel image filter pipeline in C using anonymous pipes and forked processes
 - Exploring local LLM tooling with Ollama, Qwen3, and agentic scaffolds
 - Targeting placement-year roles in London and Reading
 
