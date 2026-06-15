@@ -1,7 +1,6 @@
 <div align="center">
 
 # Kshitij Jha
-
 **CS student · builder · occasional diver**
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white)](https://www.kshitijj.me/)
@@ -16,7 +15,7 @@
 
 ## About Me
 
-- CS student at Middlesex University Mauritius (Systems Engineering)
+- CS student at University of Kent (BSc Computer Science, starting Sep 2026)
 - I am lazy, so I build things that do the work for me
 - Broadly curious about tech — no fixed lane, genuinely interested in most of it
 - I care about how systems are structured, not just whether they run
@@ -29,12 +28,11 @@
 <div align="center">
 
 [![Languages & Frontend](https://skillicons.dev/icons?i=cs,py,ts,js,react,nextjs,tailwind,html,css&perline=9)](https://skillicons.dev)
-
 [![Tools & Backend](https://skillicons.dev/icons?i=dotnet,sqlite,git,github,vite,linux,c,nodejs,figma&perline=9)](https://skillicons.dev)
 
 </div>
 
-**Also:** SAP HANA · React Native · Sanity CMS · shadcn/ui · XML/XSLT · Framer Motion · Tkinter
+**Also:** SAP HANA · SQL · React Native · Sanity CMS · shadcn/ui · XML/XSLT · Framer Motion · Tkinter
 
 **AI tooling:** Ollama · Claude · Cursor · Qwen3 · Gemma · agentic scaffolds
 
@@ -42,16 +40,19 @@
 
 ## Experience
 
-**SAP Intern — CubeStone Consulting, Dar es Salaam** *(Jan 2026 – Mar 2026)*
+**Backend Intern — Imatic Technologies Limited, Dar es Salaam** *(Jun 2026 – Present)*  
+Backend work at a Tanzanian insurtech company. Database and SQL tasks, moving toward broader backend contributions.
 
-Built a Fleet Management system end-to-end: C# backend with SAP HANA, React Native frontend, full auth and permissions, and seed data generation.
+**Backend Intern — CubeStone Consulting, Dar es Salaam** *(Jan 2026 – Apr 2026)*  
+Built a Fleet Management system end-to-end: C# .NET 8 backend with SAP HANA and Dapper, React Native frontend, full auth and permissions, and seed data generation.
 
 ---
 
 ## Currently
 
-- Exploring local LLM tooling with Ollama, Qwen3, and agentic scaffolds
-- Targeting placement-year roles in London and Reading
+- Backend intern at Imatic Technologies Limited (Dar es Salaam)
+- Starting Year 2 of BSc Computer Science at the University of Kent, Canterbury, in September 2026
+- Targeting placement-year roles in backend engineering and DevOps
 
 ---
 
