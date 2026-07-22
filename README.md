@@ -15,10 +15,11 @@
 
 ## About Me
 
-- CS student at University of Kent (BSc Computer Science, starting Sep 2026)
+- CS student at the University of Kent, BSc Computer Science with a Year in Industry, starting Sep 2026
 - I am lazy, so I build things that do the work for me
-- Broadly curious about tech — no fixed lane, genuinely interested in most of it
+- Broadly curious about tech. No fixed lane, genuinely interested in most of it
 - I care about how systems are structured, not just whether they run
+- I would rather read the stored procedure than trust the ORM
 - I have a diving license, which has nothing to do with software but feels worth mentioning
 
 ---
@@ -27,12 +28,12 @@
 
 <div align="center">
 
-[![Languages & Frontend](https://skillicons.dev/icons?i=cs,py,ts,js,react,nextjs,tailwind,html,css&perline=9)](https://skillicons.dev)
-[![Tools & Backend](https://skillicons.dev/icons?i=dotnet,sqlite,git,github,vite,linux,c,nodejs,figma&perline=9)](https://skillicons.dev)
+[![Languages & Frontend](https://skillicons.dev/icons?i=cs,py,go,ts,js,react,nextjs,tailwind,html&perline=9)](https://skillicons.dev)
+[![Tools & Backend](https://skillicons.dev/icons?i=dotnet,nodejs,docker,sqlite,git,github,vite,linux,figma&perline=9)](https://skillicons.dev)
 
 </div>
 
-**Also:** SAP HANA · SQL · React Native · Sanity CMS · shadcn/ui · XML/XSLT · Framer Motion · Tkinter
+**Also:** MSSQL · SAP HANA · Dapper · Stimulsoft · React Native · XML/XSLT · Tkinter · Sanity CMS · shadcn/ui
 
 **AI tooling:** Ollama · Claude · Cursor · Qwen3 · Gemma · agentic scaffolds
 
@@ -40,29 +41,51 @@
 
 ## Experience
 
-**Backend Intern — Imatic Technologies Limited, Dar es Salaam** *(Jun 2026 – Present)*  
-Backend work at a Tanzanian insurtech company. Database and SQL tasks, moving toward broader backend contributions.
+**Software Developer Intern, Imatic Technologies Limited, Dar es Salaam** *(Jun 2026 to now)*
 
-**Backend Intern — CubeStone Consulting, Dar es Salaam** *(Jan 2026 – Apr 2026)*  
-Built a Fleet Management system end-to-end: C# .NET 8 backend with SAP HANA and Dapper, React Native frontend, full auth and permissions, and seed data generation.
+Hired to build one API, ended up building it twice. Nine REST endpoints across
+six resources in C#/.NET 8, then the same API again in Node.js so the team could
+compare stacks with numbers instead of opinions while deciding whether to leave
+ASP.NET MVC. Also wrote the MSSQL stored procedures behind it and reverse
+engineered an undocumented Stimulsoft reporting integration, which fed a
+decision affecting 300+ Crystal Reports.
+
+**Software Developer Intern, CubeStone Consulting, Dar es Salaam** *(Jan 2026 to Mar 2026)*
+
+Built a Fleet Management REST API on my own in C#/.NET 8, using Dapper against
+SAP HANA, and authored the table schema. Wrote the React Native client that
+consumes it end to end.
+
+---
+
+## Things I have built
+
+Ordered by how much of it I actually wrote, rather than by how good the README sounds.
+
+| Project | Stack | What it is |
+| --- | --- | --- |
+| [TCP](https://github.com/kshitij406/TCP) | Go | A concurrent chat server on raw TCP. Goroutine per client, mutex guarded register. I built it to understand concurrency instead of trusting the runtime, and most of the value came from debugging deadlocks and map races by reasoning through the model. |
+| [capital.com-metal-trading-bot](https://github.com/kshitij406/capital.com-metal-trading-bot) | Python | Metals CFD bot. EMA crossover with RSI confirmation and ATR stops, 1% risk per trade, stopping criteria fixed in advance so I could not move them later. |
+| [VendingMachine](https://github.com/kshitij406/VendingMachine) | Python | Tkinter GUI over a multithreaded socket server and SQLite. The brief asked for far less than this. |
+| [RecordStore](https://github.com/kshitij406/RecordStore) | JS, XSLT | A record store where scraped data becomes XML and XSLT does the work a framework would normally hide. |
+| [NitiLens](https://github.com/kshitij406/NItiLens) | Next.js, FastAPI | Hackathon build. A multi agent pipeline that stress tests Indian policy against synthetic personas grounded in census data. |
+| [polymarket-weather-bot](https://github.com/kshitij406/polymarket-weather-bot) | Python | Blends weather ensembles into one distribution and logs a prediction only when its edge over the market is large enough. Scores its own calibration. |
+| [Halo Student Drives](https://github.com/kshitij406/Halo_student_drives) | Next.js, Firebase | Campus ride sharing with driver verification. The hard part was trust, not software. |
 
 ---
 
 ## Currently
 
-- Backend intern at Imatic Technologies Limited (Dar es Salaam)
-- Starting Year 2 of BSc Computer Science at the University of Kent, Canterbury, in September 2026
-- Targeting placement-year roles in backend engineering and DevOps
+- Software developer intern at Imatic Technologies Limited in Dar es Salaam
+- Starting stage 2 of BSc Computer Science at the University of Kent in September 2026
+- Looking for a 12 month placement from July 2027, in backend engineering or DevOps
+- Kent International Scholarship holder
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-
-<!-- ![Kshitij's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kshitij406&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kshitij406&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff) -->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kshitij406&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff)
 
