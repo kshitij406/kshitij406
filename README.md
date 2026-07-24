@@ -8,6 +8,7 @@
 [![Letterboxd](https://img.shields.io/badge/LETTERBOXD-00C030?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/Kxitiz_)
 [![X](https://img.shields.io/badge/@kxitiz__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kxitiz_)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitij.j615@gmail.com)
+[![Buy Me a Coffee](https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/kshitijj)
 
 </div>
 
