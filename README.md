@@ -61,8 +61,6 @@ consumes it end to end.
 
 ## Things I have built
 
-Ordered by how much of it I actually wrote, rather than by how good the README sounds.
-
 | Project | Stack | What it is |
 | --- | --- | --- |
 | [TCP](https://github.com/kshitij406/TCP) | Go | A concurrent chat server on raw TCP. Goroutine per client, mutex guarded register. I built it to understand concurrency instead of trusting the runtime, and most of the value came from debugging deadlocks and map races by reasoning through the model. |
