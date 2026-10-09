@@ -95,6 +95,14 @@ corporate site with an ERP catalogue sync. Both Next.js and Sanity CMS.
 
 ---
 
+## Education
+
+- **University of Kent**, BSc (Hons) Computer Science with a Year in Industry *(2026 to 2029)*
+- **Middlesex University Mauritius**, BSc Computer Science (Systems Engineering), Year 1 *(2025 to 2026)*. First in every graded module.
+- **Middlesex University Mauritius**, a year of BSc Psychology
+
+---
+
 ## Currently
 
 - Second year of BSc Computer Science at the University of Kent
