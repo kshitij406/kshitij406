@@ -1,7 +1,7 @@
 <div align="center">
 
 # Kshitij Jha
-**CS student · builder · occasional diver**
+**CS student · backend builder · occasional diver**
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white)](https://www.kshitijj.me/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitij-jha2006)
@@ -16,12 +16,14 @@
 
 ## About Me
 
-- CS student at the University of Kent, BSc Computer Science with a Year in Industry, starting Sep 2026
-- I am lazy, so I build things that do the work for me
-- Broadly curious about tech. No fixed lane, genuinely interested in most of it
-- I care about how systems are structured, not just whether they run
+- Second-year Computer Science (Year in Industry) student at the University of Kent
+- Two software internships, two hackathon teams led to awards, and paid client work on the side
+- I build backend systems in C#/.NET, Node.js and Next.js against SQL Server
 - I would rather read the stored procedure than trust the ORM
-- I have a diving license, which has nothing to do with software but feels worth mentioning
+- The work I'm proudest of started with noticing something small that was wrong
+- I have a diving licence, which has nothing to do with software but feels worth mentioning
+
+> My [portfolio](https://www.kshitijj.me/) has a deck of cards, a scam-spotting game, a coast guard arcade game, and six bugs hidden on purpose. Find them if you like.
 
 ---
 
@@ -29,33 +31,52 @@
 
 <div align="center">
 
-[![Languages & Frontend](https://skillicons.dev/icons?i=cs,py,go,ts,js,react,nextjs,tailwind,html&perline=9)](https://skillicons.dev)
-[![Tools & Backend](https://skillicons.dev/icons?i=dotnet,nodejs,docker,sqlite,git,github,vite,linux,figma&perline=9)](https://skillicons.dev)
+[![Languages & Frontend](https://skillicons.dev/icons?i=cs,ts,js,py,go,java,react,nextjs,html&perline=9)](https://skillicons.dev)
+[![Tools & Backend](https://skillicons.dev/icons?i=dotnet,nodejs,azure,docker,sqlite,git,github,githubactions,linux&perline=9)](https://skillicons.dev)
 
 </div>
 
-**Also:** MSSQL · SAP HANA · Dapper · Stimulsoft · React Native · XML/XSLT · Tkinter · Sanity CMS · shadcn/ui
+**Also:** SQL Server and stored procedures · SAP HANA · Dapper · Prisma · React Native (Expo) · IIS · Tailscale · Sanity CMS
 
-**AI tooling:** Ollama · Claude · Cursor · Qwen3 · Gemma · agentic scaffolds
+**AI tooling:** Ollama · Qwen3 · Gemma · Claude Code
 
 ---
 
 ## Experience
 
-**Software Developer Intern, Imatic Technologies Limited, Dar es Salaam** *(Jun 2026 to now)*
+**Software Developer Intern, Imatic Technologies Limited, Dar es Salaam** *(Jun 2026 to Sep 2026)*
 
-Hired to build one API, ended up building it twice. Nine REST endpoints across
-six resources in C#/.NET 8, then the same API again in Node.js so the team could
-compare stacks with numbers instead of opinions while deciding whether to leave
-ASP.NET MVC. Also wrote the MSSQL stored procedures behind it and reverse
-engineered an undocumented Stimulsoft reporting integration, which fed a
-decision affecting 300+ Crystal Reports.
+Built the attendance module for SmartERP, the company's ERP product, in Next.js
+and SQL Server within a four-person team. It is now in user acceptance testing.
+Designed the 8-table schema and made it multi-company, so one deployment serves
+several client companies. Found that the clock-in import was silently discarding
+2,478 of 14,888 real records, and fixed it with a corrected unique index. A full
+month of data (49 employees, 13,487 records) now processes with no failures in
+about 1.5 seconds. Also built the same 9-endpoint API in C#/.NET 8 and in Node.js
+so the team could pick a stack with numbers instead of opinions.
 
 **Software Developer Intern, CubeStone Consulting, Dar es Salaam** *(Jan 2026 to Mar 2026)*
 
-Built a Fleet Management REST API on my own in C#/.NET 8, using Dapper against
-SAP HANA, and authored the table schema. Wrote the React Native client that
-consumes it end to end.
+Built a fleet management REST API on my own in C# with Dapper against SAP HANA:
+about 40 endpoints, the schema, bearer-token login and per-employee permissions.
+Delivered the React Native app for it too.
+
+**Freelance Full-Stack Developer** *(2026 to now)*
+
+Paid client sites: [Sultan Mauritius](https://sultanmauritius.com), a bilingual
+e-commerce site, and [Country Materials](https://countrymaterial.com), a
+corporate site with an ERP catalogue sync. Both Next.js and Sanity CMS.
+
+---
+
+## Awards
+
+| | |
+| --- | --- |
+| **Winner, Finnovate Hackathon 2026** | Team lead of five. Built FraudLens AI. |
+| **Judge's Choice, Build with Gemma** | Team lead of five. Built BlueNet: Ocean Watch. |
+| **1st Runner-Up, Middlesex Speed Coding 2026** | 6 of 13 sequential problems, equal to the best of any team. |
+| **Oracle Academy** | Database Foundations certificate. |
 
 ---
 
@@ -63,21 +84,21 @@ consumes it end to end.
 
 | Project | Stack | What it is |
 | --- | --- | --- |
-| [TCP](https://github.com/kshitij406/TCP) | Go | A concurrent chat server on raw TCP. Goroutine per client, mutex guarded register. I built it to understand concurrency instead of trusting the runtime, and most of the value came from debugging deadlocks and map races by reasoning through the model. |
-| [capital.com-metal-trading-bot](https://github.com/kshitij406/capital.com-metal-trading-bot) | Python | Metals CFD bot. EMA crossover with RSI confirmation and ATR stops, 1% risk per trade, stopping criteria fixed in advance so I could not move them later. |
+| [FraudLens AI](https://fraudlens.site) | Node.js, Next.js, Ollama | Scam checker for messages, links and emails in English, French and Kreol Morisien, with a published Chrome extension. A deterministic rule engine with about 70 signal codes owns the verdict, so the model only reads language and cannot decide outcomes alone. 631 backend tests. |
+| BlueNet: Ocean Watch | Gemma, function calling | Illegal fishing triage for Mauritius's 2.3 million square kilometres of sea, patrolled by three boats. Code flags vessels that go dark, and a Gemma agent investigates and ranks the cases. |
+| [TCP](https://github.com/kshitij406/TCP) | Go | A concurrent chat server on raw TCP. Goroutine per client, mutex-guarded state. Most of the value came from debugging deadlocks and map races by reasoning through the model. |
+| [FleetManagementApp](https://github.com/kshitij406/FleetManagementApp) | React Native, C# | The CubeStone fleet app and its API, as a code sample. |
+| [capital.com-metal-trading-bot](https://github.com/kshitij406/capital.com-metal-trading-bot) | Python | Metals CFD bot. EMA crossover with RSI confirmation and ATR stops, stopping criteria fixed in advance so I could not move them later. |
+| [polymarket-weather-bot](https://github.com/kshitij406/polymarket-weather-bot) | Python | Blends weather ensembles into one distribution and only logs a prediction when its edge over the market is large enough. Scores its own calibration. |
 | [VendingMachine](https://github.com/kshitij406/VendingMachine) | Python | Tkinter GUI over a multithreaded socket server and SQLite. The brief asked for far less than this. |
 | [RecordStore](https://github.com/kshitij406/RecordStore) | JS, XSLT | A record store where scraped data becomes XML and XSLT does the work a framework would normally hide. |
-| [NitiLens](https://github.com/kshitij406/NItiLens) | Next.js, FastAPI | Hackathon build. A multi agent pipeline that stress tests Indian policy against synthetic personas grounded in census data. |
-| [polymarket-weather-bot](https://github.com/kshitij406/polymarket-weather-bot) | Python | Blends weather ensembles into one distribution and logs a prediction only when its edge over the market is large enough. Scores its own calibration. |
-| [Halo Student Drives](https://github.com/kshitij406/Halo_student_drives) | Next.js, Firebase | Campus ride sharing with driver verification. The hard part was trust, not software. |
 
 ---
 
 ## Currently
 
-- Software developer intern at Imatic Technologies Limited in Dar es Salaam
-- Starting stage 2 of BSc Computer Science at the University of Kent in September 2026
-- Looking for a 12 month placement from July 2027, in backend engineering or DevOps
+- Second year of BSc Computer Science at the University of Kent
+- Looking for a 12-month placement from summer 2027, in software engineering, consulting or technology
 - Kent International Scholarship holder
 
 ---
