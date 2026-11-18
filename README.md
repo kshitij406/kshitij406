@@ -23,7 +23,7 @@
 - The work I'm proudest of started with noticing something small that was wrong
 - I have a diving licence, which has nothing to do with software but feels worth mentioning
 
-> My [portfolio](https://www.kshitijj.me/) has a deck of cards, a scam-spotting game, a coast guard arcade game, and six bugs hidden on purpose. Find them if you like.
+> My [portfolio](https://www.kshitijj.me/) gives each project its own page with a working demo beside the write-up: a scam checker you can paste your own message into, a coast guard patrol game, an import that loses punches until you fix its index, a Go deadlock you can untangle, and a Godot platformer that runs in the browser.
 
 ---
 
@@ -60,6 +60,12 @@ so the team could pick a stack on evidence instead of opinions.
 Built a fleet management REST API on my own in C# against SAP HANA: about 40
 endpoints, the schema, bearer-token login and access by user type.
 Delivered the React Native app for it too.
+
+**CEO and Co-founder, Black Reef** *(2026 to now)*
+
+A software studio in Mauritius started by the five of us who won Finnovate with
+FraudLens. We build websites, mobile apps and custom software for businesses,
+at a price agreed before any work starts.
 
 **Freelance Full-Stack Developer** *(2026 to now)*
 
