@@ -53,12 +53,12 @@ several client companies. Found that the clock-in import was silently discarding
 2,478 of 14,888 real records, and fixed it with a corrected unique index. A full
 month of data (49 employees, 13,487 records) now processes with no failures in
 about 1.5 seconds. Also built the same 9-endpoint API in C#/.NET 8 and in Node.js
-so the team could pick a stack with numbers instead of opinions.
+so the team could pick a stack on evidence instead of opinions.
 
 **Software Developer Intern, CubeStone Consulting, Dar es Salaam** *(Jan 2026 to Mar 2026)*
 
-Built a fleet management REST API on my own in C# with Dapper against SAP HANA:
-about 40 endpoints, the schema, bearer-token login and per-employee permissions.
+Built a fleet management REST API on my own in C# against SAP HANA: about 40
+endpoints, the schema, bearer-token login and access by user type.
 Delivered the React Native app for it too.
 
 **Freelance Full-Stack Developer** *(2026 to now)*
@@ -87,7 +87,7 @@ corporate site with an ERP catalogue sync. Both Next.js and Sanity CMS.
 | [FraudLens AI](https://fraudlens.site) | Node.js, Next.js, Ollama | Scam checker for messages, links and emails in English, French and Kreol Morisien, with a published Chrome extension. A deterministic rule engine with about 70 signal codes owns the verdict, so the model only reads language and cannot decide outcomes alone. 631 backend tests. |
 | BlueNet: Ocean Watch | Gemma, function calling | Illegal fishing triage for Mauritius's 2.3 million square kilometres of sea, patrolled by three boats. Code flags vessels that go dark, and a Gemma agent investigates and ranks the cases. |
 | [TCP](https://github.com/kshitij406/TCP) | Go | A concurrent chat server on raw TCP. Goroutine per client, mutex-guarded state. Most of the value came from debugging deadlocks and map races by reasoning through the model. |
-| [FleetManagementApp](https://github.com/kshitij406/FleetManagementApp) | React Native, C# | The CubeStone fleet app and its API, as a code sample. |
+| [FleetManagementApi](https://github.com/kshitij406/FleetManagementApi) | C#, .NET 8, Dapper, MySQL | A public MySQL rebuild of the CubeStone fleet API: 25 endpoints, Controller, Service and Repository layers, xUnit and Moq tests. |
 | [capital.com-metal-trading-bot](https://github.com/kshitij406/capital.com-metal-trading-bot) | Python | Metals CFD bot. EMA crossover with RSI confirmation and ATR stops, stopping criteria fixed in advance so I could not move them later. |
 | [polymarket-weather-bot](https://github.com/kshitij406/polymarket-weather-bot) | Python | Blends weather ensembles into one distribution and only logs a prediction when its edge over the market is large enough. Scores its own calibration. |
 | [VendingMachine](https://github.com/kshitij406/VendingMachine) | Python | Tkinter GUI over a multithreaded socket server and SQLite. The brief asked for far less than this. |
