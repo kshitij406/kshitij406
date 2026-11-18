@@ -18,7 +18,7 @@
 
 - Second-year Computer Science (Year in Industry) student at the University of Kent
 - Two software internships, four hackathon awards, and paid client work on the side
-- I build backend systems in C#/.NET, Node.js and Next.js against SQL Server
+- I build backend systems in Python, Java and SQL
 - I would rather read the stored procedure than trust the ORM
 - The work I'm proudest of started with noticing something small that was wrong
 - I have a diving licence, which has nothing to do with software but feels worth mentioning
